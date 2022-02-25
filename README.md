@@ -8,7 +8,8 @@ clone the following repo https://github.com/conceptacherono/gitsearch.git
 use your desired folder on your machine and clone the repo there
 Open your project on live server(see #development server)
 Known Bugs
-As per now there are no known bugs.If you experience any you can reach via email edwinkimathi226@gmail.com
+As per now there are no known bugs.If you experience any you can reach via email cocotesot254@gmail.com
+
 
 # Technologies Used
 I used CSS,HTML,Angular and Typescript.
